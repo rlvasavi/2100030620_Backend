@@ -1,7 +1,8 @@
 # 2100030620_Backend
 
 
-MultiQueries
+MultiQueries :-
+
 ![image](https://github.com/rlvasavi/2100030620_Backend/assets/109660775/6c463c57-46fe-447c-892c-db6928fe8cae)
 
 Output for two queries using join and without using join :-
